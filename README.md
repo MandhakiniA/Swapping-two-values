@@ -29,7 +29,7 @@ a=b
 b=t
 print("Swapped values are:",a,b)
 ~~~
-##OUTPUT:
+## OUTPUT:
 ![image](https://github.com/MandhakiniA/Swapping-two-values/assets/150005194/4a1233f6-2510-45ba-b607-2235c6fd8c1c)
 
 
